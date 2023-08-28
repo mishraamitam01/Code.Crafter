@@ -1,2 +1,3 @@
 # Code.Crafter
-This is my first GitHub project
+This is my first GitHub Repository.
+Author - Amit kumar Mishra
